@@ -1,2 +1,2 @@
 # FingerGuns
-A shitty experiment by shitty nerds, named by a great artist
+A dumb experiment by dumb nerds, named by a great artist
